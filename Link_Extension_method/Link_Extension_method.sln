@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Link_Extension_method", "Link_Extension_method\Link_Extension_method.csproj", "{92A8A603-3C1B-4E12-9081-F8DA1F0CAB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A8A603-3C1B-4E12-9081-F8DA1F0CAB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A8A603-3C1B-4E12-9081-F8DA1F0CAB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A8A603-3C1B-4E12-9081-F8DA1F0CAB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A8A603-3C1B-4E12-9081-F8DA1F0CAB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C5CDFA-1DA7-45A3-ABF0-21F62396D0D0}
+	EndGlobalSection
+EndGlobal
