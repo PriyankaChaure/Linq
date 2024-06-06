@@ -1,0 +1,7 @@
+G:\Priyanka_Programs\MVC\Query_Syntax_Operations\Query_Syntax_Operations\bin\Debug\Query_Syntax_Operations.exe.config
+G:\Priyanka_Programs\MVC\Query_Syntax_Operations\Query_Syntax_Operations\bin\Debug\Query_Syntax_Operations.exe
+G:\Priyanka_Programs\MVC\Query_Syntax_Operations\Query_Syntax_Operations\bin\Debug\Query_Syntax_Operations.pdb
+G:\Priyanka_Programs\MVC\Query_Syntax_Operations\Query_Syntax_Operations\obj\Debug\Query_Syntax_Operations.csproj.AssemblyReference.cache
+G:\Priyanka_Programs\MVC\Query_Syntax_Operations\Query_Syntax_Operations\obj\Debug\Query_Syntax_Operations.csproj.CoreCompileInputs.cache
+G:\Priyanka_Programs\MVC\Query_Syntax_Operations\Query_Syntax_Operations\obj\Debug\Query_Syntax_Operations.exe
+G:\Priyanka_Programs\MVC\Query_Syntax_Operations\Query_Syntax_Operations\obj\Debug\Query_Syntax_Operations.pdb
